@@ -4,3 +4,7 @@ PiStorms Robotics Competitions at GSET
 
 Robots were built with LEGO MindStorms and Raspberry Pi and programmed with Python and PiStorms.
 
+Rescue competition was to follow a line and locate a bomb within a house.
+
+Sumo competition was to push another robot out of a circle.
+
