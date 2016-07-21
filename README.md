@@ -1,6 +1,6 @@
 # GSET Robotics
 
-PiStorms Robotics Competitions at GSET
+PiStorms Robotics Competitions at the Governor's School of Engineering and Technology
 
 Robots were built with LEGO MindStorms and Raspberry Pi and programmed with Python and PiStorms.
 
