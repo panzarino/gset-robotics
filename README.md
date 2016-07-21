@@ -8,3 +8,5 @@ Rescue competition was to follow a line and locate a bomb within a house.
 
 Sumo competition was to push another robot out of a circle.
 
+Our color sensor malfunctioned in the rescue competition but we had the best sumo robot.
+
